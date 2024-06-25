@@ -13,7 +13,7 @@ spec:
     metadata:  
       name: '{{cluster.namespace}}-podinfo'  
     spec:  
-      project: 10283335  
+      project: aef2786b  
       source:  
         repoURL: https://github.com/jimsheldon/harness-gitops-workshop.git  
         targetRevision: HEAD  
